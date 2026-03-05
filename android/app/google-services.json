@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924080130144",
+    "project_id": "spoti-app-2f8ff",
+    "storage_bucket": "spoti-app-2f8ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924080130144:android:12dc4045f8c0e7ac7c1b05",
+        "android_client_info": {
+          "package_name": "com.example.spoti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924080130144-hfum0qm95r1kt3jje7o03cd7gom0h3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp31mShtU6MJh8dQ5A4qZKOopQi1xS2-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924080130144-hfum0qm95r1kt3jje7o03cd7gom0h3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
